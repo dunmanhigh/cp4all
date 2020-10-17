@@ -1,0 +1,134 @@
+# Metadata for National Library Board READ! Singapore Short Stories
+---
+Identifier: 'eaa713e2-f7a1-44f0-88b2-4a2e33baeb19'
+Name: 'national-library-board-read-singapore-short-stories'
+Title: 'National Library Board READ! Singapore Short Stories'
+Description: 'A list of downloadable short story ebooks from the READ! Singapore programme
+  by National Library Board suitable for general audience.'
+Topics:
+  - 'Education'
+  - 'Society'
+Keywords:
+  - 'Catalogue'
+  - 'Lifestyle'
+  - 'NLB'
+  - 'eBooks'
+Publisher:
+  Name: 'National Library Board'
+  Admin 1:
+    Name: 'Kayes Lim'
+    Department: 'Technology and Service Innovation'
+    Email: 'kayes_lim@nlb.gov.sg'
+  Admin 2:
+    Name: 'Harpreet Kaur'
+    Department: 'Technology and Service Innovation'
+    Email: 'harpreet_kaur@nlb.gov.sg'
+Sources:
+  - 'National Library Board'
+Source Url: 'https://www.nlb.gov.sg/getinvolved/contributecreate/nlblabs.aspx'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Ad-hoc'
+Coverage: '2017-02-23 to 2017-02-23'
+Last Updated: '2020-10-17T01:53:02.538113'
+Resources:
+  -
+    Identifier: '835e630b-a03f-4f77-baa6-9c69c91883f2'
+    Title: 'National Library Board READ! Short Story'
+    Url: 'https://storage.data.gov.sg/national-library-board-read-singapore-short-stories/resources/national-library-board-read-short-story-2020-10-17T01-53-01Z.csv'
+    Format: 'CSV'
+    Coverage: '2017-02-23 to 2017-02-23'
+    Description: '####Data is refreshed weekly at http://opendata.nlb.gov.sg/content/opds/datagovsg/short-story.csv'
+    Last Updated: '2020-10-17T01:53:01.683917'
+    Schema:
+      -
+        Name: 'uid'
+        Title: 'Uid'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'ID of the item'
+      -
+        Name: 'book_title'
+        Title: 'Book title'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Title of the item'
+      -
+        Name: 'subject'
+        Title: 'Subject'
+        Type: 'text'
+        Sub Type: 'general'
+        Description:
+          - 'Subject of the item.'
+          - 'There may be multiple subjects separated by "|" characters.'
+      -
+        Name: 'summary'
+        Title: 'Summary'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Short description of the item'
+      -
+        Name: 'original_publisher'
+        Title: 'Original publisher'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Original Publisher of the item'
+      -
+        Name: 'digital_publisher'
+        Title: 'Digital publisher'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Digital Publisher of the item'
+      -
+        Name: 'format'
+        Title: 'Format'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Format of the item'
+      -
+        Name: 'language'
+        Title: 'Language'
+        Type: 'text'
+        Sub Type: 'general'
+        Description:
+          - 'The language the item is in.'
+          - 'The column uses ISO 639 3 letters code as per http://www.iso.org/iso/home/standards/language_codes.htm'
+      -
+        Name: 'copyright'
+        Title: 'Copyright'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Copyright description of the item'
+      -
+        Name: 'author_name'
+        Title: 'Author name'
+        Type: 'text'
+        Sub Type: 'general'
+        Description:
+          - 'Name of the creator of the item.'
+          - 'If there are multiple creators, they will be separated by the "|" character.'
+      -
+        Name: 'published'
+        Title: 'Published'
+        Type: 'text'
+        Sub Type: 'general'
+        Description:
+          - 'The date of publication of the item, can be blank if it is unknown.'
+          - 'The value are documented according to MARC standard at http://www.marc21.ca/index-e.html'
+      -
+        Name: 'resource_url'
+        Title: 'Resource URL'
+        Type: 'text'
+        Sub Type: 'url'
+        Description: 'Link to download page of the item'
+      -
+        Name: 'cover'
+        Title: 'Cover'
+        Type: 'text'
+        Sub Type: 'url'
+        Description: 'Link to cover image of the item'
+      -
+        Name: 'thumbnail'
+        Title: 'Thumbnail'
+        Type: 'text'
+        Sub Type: 'url'
+        Description: 'Link to thumbnail of cover image of the item'
