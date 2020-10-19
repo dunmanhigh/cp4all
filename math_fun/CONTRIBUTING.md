@@ -4,3 +4,5 @@ You can submit a pull request by doing one of the following:
 - uploading an existing .py file
 
 We look forward to your pull requests! :)
+
+thanks
