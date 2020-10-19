@@ -39,3 +39,4 @@ The first row is done as an example for you.
 | encouragement bot | Encourage others. This program's code is adapted from the Encouragement bot provided by the teachers. | Please help to add more feelings and responses | https://github.com/chinyanying/encouragement-bot- | Ting Wei En 2B |
 | CCA matching test | Help secondary students find the cca which suits them best | Add more qusestions about the different CCAs| https://github.com/tanjunhan/junhan_cca-matching-test | Tan Jun Han | 2I
 | Post Exam Activity Bot | Provides entertainment|(1)Please help add more questions| https://github.com/xinyu774/xinyu_postexamactivity_bot|Xin Yu|2J|
+| putri_post_exam_activity_bot | this bot gives you encouragement after exams| please help me add more feelings and encouragements xiexie| https://github.com/Woofiee/putri_post_exam_activity_bot/tree/main| Putri Lie Xue Ying|2J|
