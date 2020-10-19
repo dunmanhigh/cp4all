@@ -50,3 +50,4 @@ The first row is done as an example for you.
 | Encouragement bot | Included a wider range of emotions| Please help to improve the code| https://github.com/acejo217/encouragement-bot/blob/main/app.py|Joelle Koh|2I|
 | Gyroscope tips bot | This bot gives tips to people playing games requiring gyroscope | Please help to add more questions and some precise tips | https://github.com/dhssumtingwong/Gyroscope-gaming-tips | Renchi | 2C |
 | Encouragement bot | It can identify the person's feelings and encourage and comfort the person. | Please ask people to feel in their feelings! Thank you! | https://github.com/shannon-kee-06/encouragement-bot | Kee Xuan Ling Shannon | 2I |
+| Encouragement bot | To cheer students' up| Need to better identify positive and negative feelings| https://github.com/ruihanyard/Encouragement-bot| Soh Rui Han|2I|
