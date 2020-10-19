@@ -49,3 +49,4 @@ The first row is done as an example for you.
 | CCA personality matching test | Help new secondary one students find a cca that best suits them! | Please help add more questions and CCAs that they can choose from.. thanks!| https://github.com/tanjunhan/junhan_cca-matching-test |Tan Jun Han | 2I|             
 | Encouragement bot | Included a wider range of emotions| Please help to improve the code| https://github.com/acejo217/encouragement-bot/blob/main/app.py|Joelle Koh|2I|
 | Gyroscope tips bot | This bot gives tips to people playing games requiring gyroscope | Please help to add more questions and some precise tips | https://github.com/dhssumtingwong/Gyroscope-gaming-tips | Renchi | 2C |
+| Encouragement bot | It can identify the person's feelings and encourage and comfort the person. | Please ask people to feel in their feelings! Thank you! | https://github.com/shannon-kee-06/encouragement-bot | Kee Xuan Ling Shannon | 2I |
