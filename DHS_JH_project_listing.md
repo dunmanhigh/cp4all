@@ -48,3 +48,4 @@ The first row is done as an example for you.
 |encouragement board | to understand people's feelings and encourage them| this is adapted from the encouragement board provided| please add on more responses! |https://github.com/okidoki2603/encouragement-board/blob/main/app.py |kaylen teo |2i|
 | CCA personality matching test | Help new secondary one students find a cca that best suits them! | Please help add more questions and CCAs that they can choose from.. thanks!| https://github.com/tanjunhan/junhan_cca-matching-test |Tan Jun Han | 2I|             
 | Encouragement bot | Included a wider range of emotions| Please help to improve the code| https://github.com/acejo217/encouragement-bot/blob/main/app.py|Joelle Koh|2I|
+| Gyroscope tips bot | This bot gives tips to people playing games requiring gyroscope | Please help to add more questions and some precise tips | https://github.com/dhssumtingwong/Gyroscope-gaming-tips | Renchi | 2C |
