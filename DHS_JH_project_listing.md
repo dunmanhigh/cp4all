@@ -41,3 +41,4 @@ The first row is done as an example for you.
 | Post Exam Activity Bot | Provides entertainment|(1)Please help add more questions| https://github.com/xinyu774/xinyu_postexamactivity_bot|Xin Yu|2J|
 | putri_post_exam_activity_bot | this bot gives you encouragement after exams| please help me add more feelings and encouragements xiexie| https://github.com/Woofiee/putri_post_exam_activity_bot/tree/main| Putri Lie Xue Ying|2J|
 | mental health encouragement bot | help encourage those who are going through a tough time to stay strong| please add more feelings and words of encouragement thanks!!| https://github.com/reecola/cora_mentalhealth#cora_mentalhealth |cora soong |2J|Remove this text and add yours|
+| Crazy bot | Bot with wierd and bad answers| Add wierd answers| https://github.com/JAMI747-400/Jamie_repository| Jamie Wen|2 Irius|
