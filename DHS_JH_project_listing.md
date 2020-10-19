@@ -52,3 +52,4 @@ The first row is done as an example for you.
 | Encouragement bot | It can identify the person's feelings and encourage and comfort the person. | Please ask people to feel in their feelings! Thank you! | https://github.com/shannon-kee-06/encouragement-bot | Kee Xuan Ling Shannon | 2I |
 | Encouragement bot | To cheer students' up| Need to better identify positive and negative feelings| https://github.com/ruihanyard/Encouragement-bot| Soh Rui Han|2I|
 | encouragement_bot | It is unique as I have put different emotions into the code| Please help add more unique emotions!| https://github.com/chuakyishengkyson/encouragement_bot/tree/main|Kyson Chua|2J|
+| spell check | this is a bot to check your typing accuracy | anyone welcome to contribute| https://github.com/SchwarzMann07/spell-checker-final| Ng Johnson | 2A |
