@@ -53,3 +53,4 @@ The first row is done as an example for you.
 | Encouragement bot | To cheer students' up| Need to better identify positive and negative feelings| https://github.com/ruihanyard/Encouragement-bot| Soh Rui Han|2I|
 | encouragement_bot | It is unique as I have put different emotions into the code| Please help add more unique emotions!| https://github.com/chuakyishengkyson/encouragement_bot/tree/main|Kyson Chua|2J|
 | spell check | this is a bot to check your typing accuracy | anyone welcome to contribute| https://github.com/SchwarzMann07/spell-checker-final| Ng Johnson | 2A |
+| CCA Matching bot | Match students with to their cca with their personality traits| Add more questions to determine the personality of students|https://github.com/AIDANNG6423E/CCA-matching|Aidan Ng|2C|
