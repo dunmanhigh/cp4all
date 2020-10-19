@@ -27,5 +27,6 @@ The first row is done as an example for you.
 |Online CCA recommendation test | Help students choose a suitable CCA by analysising their survey results  | Adding more questions to be able to better classify students | https://github.com/A-ux-svg/CCA-recommendation | Ang Chong Zhe | 2I|
 | Encouragement Bot | Spread kind words | Can ientify their feelings and spread positivity accordingly |Input of users' feelings | https://github.com/solidstatekate/encouragementbottt | Kate Lau | 2I |
 | Encouragement bot | Comfort and encourage others | Can identify feelings and comfort them | Imput of users's feelings | https://github.com/shannon-kee-06/encouragement-bot | Kee Xuan Ling Shannon | 2I |
+| Encouragement bot | Can comfort and encourage others | Imput of users's feelings | https://github.com/shannon-kee-06/encouragement-bot | Kee Xuan Ling Shannon | 2I | 
 | CCA personality test | Help students choose their CCAs based on their personality. This program's code is adapted from the CCa Matching Personality test provided by the teachers.| PLease help add more questions about the different CCAs|https://github.com/dhsclass1imx/ccapersonalitytest|Lim Miao Xuan|2I |
 | Encouragement Bot | Spread kind words | Can ientify their feelings and spread positivity accordingly |Input of users' feelings | https://github.com/solidstatekate/encouragementbottt | Kate Lau | 2I |
