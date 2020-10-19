@@ -30,3 +30,4 @@ The first row is done as an example for you.
 | Encouragement bot | Can comfort and encourage others | Imput of users's feelings | https://github.com/shannon-kee-06/encouragement-bot | Kee Xuan Ling Shannon | 2I | 
 | CCA personality test | Help students choose their CCAs based on their personality. This program's code is adapted from the CCa Matching Personality test provided by the teachers.| PLease help add more questions about the different CCAs|https://github.com/dhsclass1imx/ccapersonalitytest|Lim Miao Xuan|2I |
 | Encouragement Bot | Spread kind words | Can ientify their feelings and spread positivity accordingly |Input of users' feelings | https://github.com/solidstatekate/encouragementbottt | Kate Lau | 2I |
+| encouragement bot | Encourage others. This program's code is adapted from the Encouragement bot provided by the teachers. | Please help to add more feelings and responses | https://github.com/chinyanying/encouragement-bot- | Chin Yan Ying | 2I |
