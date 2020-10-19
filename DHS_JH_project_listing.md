@@ -47,3 +47,4 @@ The first row is done as an example for you.
 | Post-exam bot | Provides entertainment for after exams| (1) Please help add more questions| https://github.com/YuanKeewi/yuankee_postexam_bot | Yuan Kee|2J|
 |encouragement board | to understand people's feelings and encourage them| this is adapted from the encouragement board provided| please add on more responses! |https://github.com/okidoki2603/encouragement-board/blob/main/app.py |kaylen teo |2i|
 | CCA personality matching test | Help new secondary one students find a cca that best suits them! | Please help add more questions and CCAs that they can choose from.. thanks!| https://github.com/tanjunhan/junhan_cca-matching-test |Tan Jun Han | 2I|             
+| Encouragement bot | Included a wider range of emotions| Please help to improve the code| https://github.com/acejo217/encouragement-bot/blob/main/app.py|Joelle Koh|2I|
