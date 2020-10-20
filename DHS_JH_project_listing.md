@@ -56,4 +56,4 @@ The first row is done as an example for you.
 | CCA Matching bot | Match students with to their cca with their personality traits| Add more questions to determine the personality of students|https://github.com/AIDANNG6423E/CCA-matching|Aidan Ng|2C|
 | MCQ Revision Programme | This programme is designed to help students recap what they have previously learnt in class to refresh their memory. This could also be used to help them prepare for their examinations.| Please help to add in more interesting and useful questions that could help students revise more topics.| https://github.com/notzyyy/zhiyus_MCQ-Revision-Programme/blob/main/app.py|Chow Zhi Yu 2A|
 | CCA Type test | Identify type of CCA suitable | improve it and increase accuracy | https://github.com/2018Jojo/CCA-Type-test/tree/main| Joel | 2C |
-
+| CCA personality matching test | enables the cca to seem more enjoyable to students | this project can help students to be more comfotable in their cca and allow them to bond better |https://github.com/lorrainelow/personality-test/edit/main/README.md |Lorraine Low 2G|
