@@ -18,7 +18,7 @@ To list your project below, click on edit, make your change (follow the markdown
 Note: Only VALID and NEW entries will be accepted.
 
 
-The first row is done as an example for you.
+The first row is done as an example.
 
 
 | Project Title | Project Description (i.e. How is your project unique from others?) | Contribution needed | Link to GitHub repository | Student Name | Class |
