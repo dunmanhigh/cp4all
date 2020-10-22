@@ -58,3 +58,4 @@ The first row is done as an example for you.
 | CCA Type test | Identify type of CCA suitable | improve it and increase accuracy | https://github.com/2018Jojo/CCA-Type-test/tree/main| Joel | 2C |
 | Post-exam bot | A good company for students who are bored after exams  | help  me add more trigger word suggestions so the bot gets smarter |https://github.com/dhscomputing/aaron_postexam_bot/tree/main | Mr Ho | 2D |
 
+| Anime Recommendation | Get an anime recommendation by answering questions | Improve it, feel free to add more animes| https://github.com/StayDashing28/Python_Code/blob/master/anime.py | Audrey Ooi | 1H
