@@ -58,5 +58,7 @@ The first row is done as an example for you.
 | CCA Type test | Identify type of CCA suitable | improve it and increase accuracy | https://github.com/2018Jojo/CCA-Type-test/tree/main| Joel | 2C |
 | Post-exam bot | A good company for students who are bored after exams  | help  me add more trigger word suggestions so the bot gets smarter |https://github.com/dhscomputing/aaron_postexam_bot/tree/main | Mr Ho | 2D |
 | OS knowledge tester | test knowledge of different Operating Systems to spark interests to try different OS  | find errors and suggest changes |https://github.com/SchwarzMann07/os-knowledge-tester/blob/main/app.py | Ng Johnson | 2A |
+| USSR knowledge tester | test knowledge on y3 topics  | check for errors |https://github.com/SchwarzMann07/USSR-Knowledge-tester/blob/main/app.py | Ng Johnson | 2A |
+| Atomic Structure Knowledge tester | test knowledge on Atomic Structure  | check for errors |https://github.com/SchwarzMann07/Atomic-Structure-Knowledge-tester/blob/main/app.py | Ng Johnson | 2A |
 
 
