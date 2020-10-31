@@ -60,5 +60,6 @@ The first row is done as an example for you.
 | OS knowledge tester | test knowledge of different Operating Systems to spark interests to try different OS  | find errors and suggest changes |https://github.com/SchwarzMann07/os-knowledge-tester/blob/main/app.py | Ng Johnson | 2A |
 | USSR knowledge tester | test knowledge on y3 topics  | check for errors |https://github.com/SchwarzMann07/USSR-Knowledge-tester/blob/main/app.py | Ng Johnson | 2A |
 | Atomic Structure Knowledge tester | test knowledge on Atomic Structure  | check for errors |https://github.com/SchwarzMann07/Atomic-Structure-Knowledge-tester/blob/main/app.py | Ng Johnson | 2A |
+| Math MCQ question | Math question with pop up box and button | Find way to add more questions | https://github.com/NicoleS13/MCQ-Math-question/tree/main | Nicole Seah | 2A |
 
 
