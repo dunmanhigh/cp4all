@@ -35,7 +35,7 @@ For example, for the valid car plate number is 'SDG6136T',
 | 3         | X              | 10        | L              | 16        | D              |
 | 4         | U              | 11        | K              | 17        | C              |
 | 5         | T              | 12        | J              | 18        | B              |
-| 6         | S              |           |                |           |                |
+| 6         | S              | 13        |                |           |                |
 ```
 Reference: https://sgwiki.com/wiki/Vehicle_Checksum_Formula
 
