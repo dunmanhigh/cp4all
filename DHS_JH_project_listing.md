@@ -61,4 +61,4 @@ The first row is done as an example for you.
 | USSR knowledge tester | test knowledge on y3 topics  | check for errors |https://github.com/SchwarzMann07/USSR-Knowledge-tester/blob/main/app.py | Ng Johnson | 2A |
 | Atomic Structure Knowledge tester | test knowledge on Atomic Structure  | check for errors |https://github.com/SchwarzMann07/Atomic-Structure-Knowledge-tester/blob/main/app.py | Ng Johnson | 2A |
 | POST-EXAMINATION BOT | bot that provides entertainment, consolation and gives congratulations, to allow the user to interact with it and give the user an emotional outlet and a chatbot to talk to | Contribution needed | https://github.com/MythiCatz/post-exam-bot/edit/main/README.md | Tiffany Heng | 2A |
-
+| Encouragingbot | The bot gives more human-like responses|Please help me add on if possible| https://github.com/p00kanana/hackoctober.|Annabelle Ang|20Y2B|
