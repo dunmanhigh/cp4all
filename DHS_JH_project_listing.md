@@ -95,3 +95,48 @@ The first row is done as an example for you.
 | Encouragement Bot | Identify feelings and make students happy | Welcome to contribute | https://github.com/DARE-ShenMao/encourage.bot | Wang Rui Han | 2G |
 | Emotional Support Bot | Identifies emotions and encourages someone | need to add more emotions and replies :) | https://github.com/bunnehhhh/yessir/blob/main/app.py | Alyssa | 2G |
 | encouragement bot | to cheer up anyone feeling down after getting their eoy results | please help to add more words of advice or encouragement | https://github.com/zhitinggg/encouragement-bot | tan zhi ting | 2G |
+| encouragement bot | designed to give students encouragement to help them | more emotions | https://github.com/meguurnn/megannencouragementbot#megannencouragementbot |  megann koh | 2f |
+| Encouragement bot | Encourage people based on feelings | increase range of emotions | https://github.com/buliendA/brenda_encouragementbot/tree/main | Brenda | 2F |
+| Post-exam Bot | A good company for people bored after exams | Can you help me add more responses so the bot gets smarter | https://github.com/aaronhodhs/aarons_post-exam_bot1 | Aaron | 2F |
+| Encouragment bot | have someone to talk to | please add more emotions so it can reply to more inputs | https://github.com/peace76/Tongyu_encouragment-bot| Tongyu | 2F |
+| tob the bot | cheer students up regardless of their feelings | i need some help to improve the bot and to make it more accurate | https://github.com/lokispaghett/tob-the-bot| Qifang | 2G |
+| Encouragement bot | To encourage people no matter how they feel | To include a wider range of emotions |https://github.com/SuperTrooper6868/kramig-has-emotions| Ren Zhao | 2F |
+encouragementbot | helps one feel better and acknowledge one's emotions | | https://github.com/countingshep/encouragementbot_shawn | Shawn | 2G |
+| Activity bot | Find an activity to do after the exams | improve it and increase accuracy | https://github.com/bananabot23/banana_activity_bot| Isis | 2F |
+| Encouragement bot | Identify feelings and give encouragement | improve it and increase accuracy | https://github.com/huechuwhc/huehij2eicmocj| Javier | 2F |
+| CCA Quiz | Help students find an appropriate CCA| Create more CCA options| https://github.com/t1nyel/cca-quiz| Esther Lee | 2F |
+| feelings bot | To identify feelings | improve it and increase accuracy | https://github.com/tokleejoon/lee-joon_feelings_bot1| Lee Joon | 2F |
+|MCQ_Practice_Questions | To help students prepare for MCQ question in examinations. | https://github.com/DARE-XiaoLieQuan/MCQ_Practice_Questions.git | Wang Yifei | 2G |
+| subject combi bot | helloo :) this is a subject combi bot to help you suggest an appropraite subject combi based on grades, strengths, and interests:))) | currently the results only show you your applicable stream and best subjects, not the actual combi. hehe and adding more questions in the quiz will do:) | https://github.com/chauxumei/subject-combi-bot| xumei | 2F |
+| Qian Nee's Encouragement bot | To cheer students up | improve it and increase accuracy | https://github.com/k00ler/whoasked| Qian Nee | 2F |
+| encouragement bot | make people happy |add more emotions |https://github.com/theresxh/test.git | Theresah | 2F |
+Yixuan | 2F |
+| CCA Type test | give CCA recommendations by considering students strengths   | please help improve the code and accuracy|https://github.com/Jing59/jinglin_cca_personnality_test| Jing Lin | 2F |
+| Post-exam Bot | A good company for people bored after exam | Can you help me add more responses so the bot gets smarter |https://github.com/Dhs2019Alwin/Alwin_EncouragementBot/tree/main | Alwin | 2F |
+| IQ test | Identify intellegence of individual | plz read this | https://github.com/thisisnotkayden01/usefulness/commit/1f6d5550fca06c6371d37e2401a345acb8aafc6c | Rick | 1A |
+| CCA Type test | designd to help find out different type of CCAsuitable for students based on their interest| please help to add more responses | https://github.com/TaTaxCooky/shuhe-cca-personality-test| shuhe | 2F |
+| Post Exam Bot | Post Exam Bot to exncourage students | Please help add encouragement words |https://github.com/marksumanting/Post-Exam-Event| Mark | 2X |
+| post exam bot| encourage post exam students| add more encouragement | https://github.com/2019DHSxuyufeifei/post-exam-activity| Yufei| 2H |
+| sports-bot | Designed to offer information about sports that people are interested in learning more about | Please help to diversify the input options by adding other sports | https://github.com/Sophialoong/sports-bot/tree/main | sophia loong |2F|
+| Post Exam Bot | Make you happy |help make it identify more feelings |https://github.com/dhs1h/post-exam-activity | Melissa | 2H |
+| Very Original Encouragement bot  | Aims to make someone's day | add more emotions and suggestions for encouragements | https://github.com/Mintthehappyleaves/uwuuu/blob/main/app.py| Wern Xi | 2G |
+| CCA Type test | Identify type of CCA suitable | improve it and increase accuracy | https://github.com/yiwei1H/hacktoberfest/blob/main/myapp.py| yiwei | 2H |
+| CCA Type test | Identify type of CCA suitable | improve it and increase accuracy | https://github.com/tokleejoon/lee-joon_feelings_bot1/tree/main| Lee Joon | 2F|
+| Hacktoberfest Post exam project| Encouragement bot |Please help add encouragement bot  |https://github.com/CJMCocoPalmBS/hacktoberfest-post-exam-project/blob/main/myapp junming| 2H |
+| Encouragement_bot | provides encouragement | expand the responses to the diferent feelings | https://github.com/angelahau123/hi-i-m-nice-/blob/main/app.py | Angela Hau | 2G |
+| Post Exam Bot | Give ideas on what to do when feeling a certain feeling | Please add more encouragement and more feelings | https://github.com/jadeywa/Post_Exam_Activity | Jade Aw| 2H |
+| CCA Personality test | Matches your personality to a suitable CCA | please help i have no idea what im doing | https://github.com/leejunrui/junrui_cca_personality_test.git| Junrui | 2F |
+| Activity bot | Identify type of activity suitable | improve it and increase accuracy | https://github.com/bananabot23/banana_activitybot/tree/main| Isis | 2F |
+| Harry's bot | Identify type of CCA suitable | This is self-centred | https://github.com/Harry-cheong/Post-Exam-Event | Harry | 2H |
+| Tired Robot | This is a project to offer you some advice if you feel tired in any way | help to add in more possible feelings and some possible replies | https://github.com/2019dhsLeftRiteNemo/Bored-aft-exam| Pang Jun Yuan Cayden | 2H |
+| CCA personality matching test | enables the cca to seem more enjoyable to students | this project can help students to be more comfotable in their cca and allow them to bond better |https://github.com/lorrainelow/personality-test/edit/main/README.md |Lorraine Low | 2G|
+| Encouragement bot | Encourage others | Imput of users's feelings | https://github.com/tokleejoon/lee-joon_feelings_bot1/tree/main | Tok Lee Joon | 2F | 
+| eoys gdbye bot | to enjoy post eoys holidays | please add more adjectives as keywords | https://github.com/2019dhs1Hjx/post-exams-project14/tree/main| Jing Xi | 2H |
+| PEA bot | to encourage students | identify larger range of emotions |https://github.com/giselllllleeeee/PEA/tree/main | gisele | 2H |
+| Encouragement bot | encourage people and boost people's moods | add more feelings and responses | https://github.com/moodymo/moodymomo-is-bad-at-coding| Moses Chiam | 2H |
+| Encouragement bot| Edited to give better responses to help people get through the day better| Do help to improve to code to help others cheer up| Annie Ee|2G|
+| CCA Type test | Identify type of CCA suitable | help students find a suitable cca | https://github.com/qixueyann/xy-cca-personality-match | Xueyan | 2G |
+| Feelings Bot | Comforts people and help them cope with their feelings. This program's code is adapted from the Encouragement Bot provided by the teachers.| Please help me find any flaws, and add more feelings and responses!| https://github.com/feelings_bot| Tan Zhen |2G|
+| Encouragement Bot | Automatic Chat Bot to make people feel better | Add more keywords and responses, create a UI for it | https://github.com/sawzedong/encouragement-bot | Saw Ze Dong | 2H |
+| Encouragement bot :) | Make students feel better | add more feelings and improve the code | https://github.com/ZiLi-meowzz/zili_encouragement_BOT/tree/main| Zi Li | 2F |
+| Encouraging bot | Brings comfort when in need | Improve it and increase accuracy | https://github.com/2019Hengyi/Hengyi-project-hacktoberfest-2/ |Heng Yi |2H|
