@@ -140,3 +140,13 @@ Yixuan | 2F |
 | Encouragement Bot | Automatic Chat Bot to make people feel better | Add more keywords and responses, create a UI for it | https://github.com/sawzedong/encouragement-bot | Saw Ze Dong | 2H |
 | Encouragement bot :) | Make students feel better | add more feelings and improve the code | https://github.com/ZiLi-meowzz/zili_encouragement_BOT/tree/main| Zi Li | 2F |
 | Encouraging bot | Brings comfort when in need | Improve it and increase accuracy | https://github.com/2019Hengyi/Hengyi-project-hacktoberfest-2/ |Heng Yi |2H|
+| MCQ questions | To identify how smart respondents are | more interesting by adding bahasa cina elements | https://github.com/choryee556/An-Amaezing-Project Cheryi | 2H |
+| Tired Robot | This is a project to offer you some advice if you feel tired in any way | add possible feelings and replies | https://github.com/2019dhsLeftRiteNemo/Bored-aft-exam| Pang Jun Yuan Cayden | 2H |
+| MCQ Revision Programme | Very helpful for exams | Add in more questions and its respecting answer | https://github.com/angelahau123/exam-help/blob/main/app.py | Angela Hau | 2G |
+| Post exam feeling bot | this is a bot for you to type ur feelings after eoy | PLease add a wider range of emotions| https://github.com/Bananasheep234/xinyi_postexamfeelingsbot/blob/main/app.py| Lin Xinyi | 2D |
+| cca type test | identify suitability of ccas to students | improve it and increase accuracy | https://github.com/shwernyii1e/sy_cca_personality_test | shwern yii | 2e |
+| Post-exam bot | A good company for students who are bored after exams  | help  me add more trigger word suggestions so the bot gets smarter |https://github.com/dhscomputing/aaron_postexam_bot/tree/main | Maydalynn | 2E |
+| Hotel Registeration System| Record and change the name of the room into guests' name | improve it and increase accuracy | https://github.com/DhsZuqi/Hacktoberfest_2020_10_20/blob/main/test_1.py | Miao zuqi | 2D |
+|Encouragement Bot | Encourage people | Add more encouragement quote | https://github.com/claireenettharp/claire_test/blob/main/encouragement_bot | Claire | 2D |
+| CCA Matching Personality Test | this is a test to match your CCA to your personality type | add more questions to better classify their CCA according to their personality | https://github.com/lockyiyin1D/yiyin_CCA_Matching_personality_test | Lock Yi Yin | 2E |
+| cheer bot | cheer students up | improve by adding more feelings | https://github.com/XuZhe10/Xu-Zhe_encouragement-bot/blob/main/app.py | Siau Xu Zhe | 2D |
